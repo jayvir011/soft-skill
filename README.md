@@ -1,1 +1,1 @@
-# softskill
+# soft-skill
